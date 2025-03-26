@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+.background{
+  background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("background.jpg");
+  background-size: cover;
+}
+
+.login{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.logo{
+  position: absolute;
+  top: 0px;
+  left: 40px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: .5rem;
+  margin-top: 50px;
+  letter-spacing: 5px;
+}
+
+
+label {
+  display: inline-block;
+  white-space: nowrap; 
+  width: 20%;
+  min-width: 80px;
+  vertical-align: middle;
+}
+
+input {
+  width: 100%;
+  vertical-align: middle;
+  padding: 15px 20px;
+  font-size: large;
+  min-width: 250px;
+  border: none;
+  background-color: #F1F4FA;
+  letter-spacing: var(--letter-spacing-narrow);
+  margin-left: 3px;
+  font-family: "FUTURA", "Josefin Sans", "游ゴシック体";
+}
+
+input:focus{
+  outline: none;
+}
+
+.mainContainer {
+  border-radius: 20px;
+  width: 600px;
+  max-width: 95%;
+  background-color: #F1F4FA;
+}
+
+.form-controll {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.form-group {
+  min-width: 500px;
+  margin-top: 15px;
+  margin-bottom: 0px;
+  box-sizing: border-box;
+}
+
+.form-border {
+  border: 1px gray solid;
+  border-radius: 5px;
+}
+
+.text-xs {
+  font-size: .75rem;
+  line-height: 1rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.submit-btn {
+  border-radius: 9999px;
+  display: block;
+  width: 100%;
+  padding: 15px;
+  box-sizing: border-box;
+  background: black;
+  color: #FFF;
+  text-decoration: none;
+  margin: 40px 0px;
+  font-family: "FUTURA", "Josefin Sans", "游ゴシック体";
+}
+
+.none {
+  display: none;
+}
+
+
+/* 地図画面用 */
+
+.screenall{
+  height: 100%;
+  width: 100%;
+}
+
+.oddView{
+  flex-direction: column;
+  width: 70%;
+}
+  
+.mapView{
+  height: 70%;
+}
+  
+.alertView{
+  height: 30%;
+}
+  
+.weatherView{
+  height: 100%;
+  width: 30%;
+}
+
+.overflow{
+  overflow: auto;
+}
+
+.weatherTable{
+  border: 1px; 
+}
+
+.tebleHeader{
+  background-color: #DDEBF7;
+}
+
+.tableData{
+  text-align: center;
+}

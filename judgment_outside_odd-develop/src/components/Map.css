@@ -1,0 +1,8 @@
+.leaflet-container {
+    height: 100%;
+    width: 100%;
+}
+
+.marker {
+    margin-top: -45px !important;
+}
