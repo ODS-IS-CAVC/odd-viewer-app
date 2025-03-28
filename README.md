@@ -7,7 +7,7 @@ ODD可視化UI機能を開発することで、自動運転車両が運行/走�
 
 ![ODD Viewer App ](https://github.com/user-attachments/assets/2125d2a4-f677-43ac-bc54-3a4d404874f6)
 
-## 情報連携先
+## 先読み情報連携先
 
 ![先読み情報](https://github.com/user-attachments/assets/d75ea0d7-bd1f-43e1-946d-e25f2e331979)
 
