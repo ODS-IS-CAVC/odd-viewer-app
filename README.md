@@ -92,6 +92,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+## ライセンス
+本リポジトリはMITライセンスで提供されています。
+
 ## 問合せ及び要望に関して
 本リポジトリは主に配布目的の運用となるため、IssueやPull Requestに関しては受け付けておりません。
 
