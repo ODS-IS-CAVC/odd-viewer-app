@@ -9,6 +9,8 @@ ODD可視化UI機能を開発することで、自動運転車両が運行/走�
 
 ## 情報連携先
 
+![先読み情報](https://github.com/user-attachments/assets/d75ea0d7-bd1f-43e1-946d-e25f2e331979)
+
 ### ●「路側デバイスの位置・死活情報」「路駐車情報」
 
 環境情報連携システム　https://github.com/ODS-IS-CAVC/environmental-information-integration-system
