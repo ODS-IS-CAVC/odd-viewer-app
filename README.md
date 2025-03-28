@@ -6,9 +6,13 @@ ODD可視化UI機能を開発することで、自動運転車両が運行/走�
 
 ## 情報連携先
 
-### 「路側デバイスの位置・死活情報」「路駐車情報」
-環境情報連携システム　!https://github.com/ODS-IS-CAVC/environmental-information-integration-system
-車輛情報連携システム　!https://github.com/ODS-IS-CAVC/vehicle-information-integration-system
+### ●「路側デバイスの位置・死活情報」「路駐車情報」
+
+環境情報連携システム　https://github.com/ODS-IS-CAVC/environmental-information-integration-system
+
+### ●「気象情報」
+
+車輛情報連携システム　https://github.com/ODS-IS-CAVC/vehicle-information-integration-system
 
 # Getting Started with Create React App
 
