@@ -4,7 +4,10 @@
 ODD可視化UI機能を開発することで、自動運転車両が運行/走行するルート上に配置された路側デバイスの設置位置、稼働状態情報を可視化し、連携する路側デバイスが正常に稼働しているか(ODD範囲内か)どうかを把握することが可能となり、検証に活用する。
 検証で扱う先読み情報としては、自動運転システムの運用に影響が大きいと想定される「路側デバイスの位置・死活情報」「気象情報」「路駐車情報」とする。
 
-##情報連携先
+##　情報連携先
+### 「路側デバイスの位置・死活情報」「路駐車情報」
+環境情報連携システム　!https://github.com/ODS-IS-CAVC/environmental-information-integration-system
+車輛情報連携システム　!https://github.com/ODS-IS-CAVC/vehicle-information-integration-system
 
 # Getting Started with Create React App
 
